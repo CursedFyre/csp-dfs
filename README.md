@@ -12,4 +12,4 @@
  - This Python program implements Constraint Satisfaction through means of assigning unique number values to each variable from the given domain.
 
 ## Backtracking Algorithm Flow
-[!Image](image.png)
+![Image](image.png)
